@@ -1,4 +1,4 @@
-# my-first-project
+# My-first-official-project Hotel-Reservation-Analysis
 This is my first project on GitHub
 This is my first official project i have done during my Internship at Mentorness.
 This is about Hotel Reservation Analysis.
